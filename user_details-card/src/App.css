@@ -1,0 +1,16 @@
+.App {
+  display: 'flex';
+  flex-direction: column;
+  align-items: 'center';
+  justify-content: 'center';
+  min-height: 100vh;
+  box-sizing: content-box;
+}
+
+.color-light{
+  color:aliceblue
+}
+
+.displayContent{
+  display: 'contents !important';
+}
